@@ -3,8 +3,7 @@
 
 ### 👨‍💻 About Me
 - 🎓 Estudiante de Ingeniería de Software  
-- 💻 Enfocado en Java, POO y desarrollo de sistemas  
-- 🚀 Proyecto actual: Sistema de Gestión de Fórmula 1 en Java  
+- 💻 Enfocado en Java, POO y desarrollo de aplicaciones  
 - 📱 Interés en backend y apps móviles  
 
 ### 🤝 Connect with me
