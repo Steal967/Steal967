@@ -1,10 +1,32 @@
 <h1 align="center">Hi 👋, I'm Steven Alejandro Sandoval</h1>
 <h3 align="center">Software Engineering Student | Java Developer in Progress</h3>
 
+---
+
 ### 👨‍💻 About Me
 - 🎓 Estudiante de Ingeniería de Software  
-- 💻 Enfocado en Java, POO y desarrollo de aplicaciones  
-- 📱 Interés en backend y apps móviles  
+- 💻 Enfocado en Programación Orientada a Objetos con Java  
+- 📚 Conocimientos en Python, JavaScript, HTML y Bases de Datos  
+- 📱 Interés en desarrollo backend y aplicaciones móviles  
+- 🚀 Aprendiendo buenas prácticas y código limpio  
+
+---
+
+### 🛠 Featured Project
+🔹 **Sistema de Gestión de Fórmula 1 – Java**
+- Gestión de pilotos, equipos y carreras  
+- Uso de ArrayList y estructuras dinámicas  
+- Desarrollo con JFrameForm en NetBeans  
+- Enfoque en POO y lógica de negocio  
+
+---
+
+### 🌱 Currently Learning
+- Integración Java + Bases de datos  
+- Patrones básicos de diseño  
+- Desarrollo de apps móviles con Thunkable  
+
+---
 
 ### 🤝 Connect with me
 <p align="left">
@@ -12,6 +34,8 @@
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
 </a>
 </p>
+
+---
 
 ### 🧰 Languages and Tools
 <p align="left">
