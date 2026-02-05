@@ -5,23 +5,15 @@
 
 ### 👨‍💻 About Me
 - 🎓 Estudiante de Ingeniería de Software  
-- 💻 Enfocado en Programación Orientada a Objetos con Java  
+- 💻 Enfocado en desarrollo de software con bases en Java y tecnologías web 
 - 📚 Conocimientos en Python, JavaScript, HTML y Bases de Datos  
 - 📱 Interés en desarrollo backend y aplicaciones móviles  
-- 🚀 Aprendiendo buenas prácticas y código limpio  
-
----
-
-### 🛠 Featured Project
-🔹 **Sistema de Gestión de Fórmula 1 – Java**
-- Gestión de pilotos, equipos y carreras  
-- Uso de ArrayList y estructuras dinámicas  
-- Desarrollo con JFrameForm en NetBeans  
-- Enfoque en POO y lógica de negocio  
-
+- 🚀 Aprendiendo buenas prácticas y código limpio
+  
 ---
 
 ### 🌱 Currently Learning
+- Desarrollo de páginas web con HTML, CSS y JavaScript  
 - Integración Java + Bases de datos  
 - Patrones básicos de diseño  
 - Desarrollo de apps móviles con Thunkable  
